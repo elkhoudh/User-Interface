@@ -189,7 +189,7 @@ nav a {
   display: inline-block;
   font-size: 120px;
   width: 60%;
-  margin: 10px auto;
+  margin: 50px auto;
   text-align: center;
 }
 
@@ -249,4 +249,11 @@ nav a {
 .footer {
   padding: 20px;
   text-align: center;
+}
+
+.call-to-action-btn {
+  background: white;
+  width: 200px;
+  height: 50px;
+  box-shadow: 0px -1px;
 }
